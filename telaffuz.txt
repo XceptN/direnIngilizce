@@ -1,7 +1,7 @@
 "Sözcük","Telaffuz (Türkçe gibi)"
 "archived","arçayvd"
 "key","key (e ile)"
-certificate,"sertifikeyt"
+"certificate,"sertifikeyt"
 
 
 
