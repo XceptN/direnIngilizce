@@ -3,6 +3,7 @@
 "key","key (e ile)"
 "certificate,"sertifikeyt"
 "standard","sıtandart"
-
-
+"re-index","reindeks"
+"document","doküment (e ile)"
+"command","koment"
 
