@@ -2,6 +2,7 @@
 "archived","arçayvd"
 "key","key (e ile)"
 "certificate,"sertifikeyt"
+"standard","sıtandart"
 
 
 
